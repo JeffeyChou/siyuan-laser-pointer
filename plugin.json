@@ -1,0 +1,44 @@
+{
+  "name": "siyuan-laser-pointer",
+  "author": "JeffeyChou",
+  "url": "https://github.com/JeffeyChou/siyuan-laser-pointer",
+  "version": "0.1.0",
+  "minAppVersion": "3.8.5",
+  "backends": [
+    "all"
+  ],
+  "frontends": [
+    "desktop",
+    "desktop-window",
+    "mobile",
+    "browser-desktop",
+    "browser-mobile"
+  ],
+  "disabledInPublish": true,
+  "displayName": {
+    "default": "Laser Pointer",
+    "zh-CN": "激光笔"
+  },
+  "description": {
+    "default": "Toggle a laser pointer and circle content while presenting; strokes fade out after you release.",
+    "zh-CN": "一键切换激光笔，演示时在笔记上圈画重点，松开后笔迹自动淡出。"
+  },
+  "readme": {
+    "default": "README.md",
+    "zh-CN": "README.zh-CN.md"
+  },
+  "icon": "icon.png",
+  "preview": "preview.png",
+  "funding": {
+    "custom": []
+  },
+  "keywords": [
+    "laser",
+    "pointer",
+    "presentation",
+    "annotate",
+    "激光笔",
+    "演示",
+    "圈画"
+  ]
+}
