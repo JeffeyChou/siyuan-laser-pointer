@@ -2,6 +2,8 @@
 
 # Laser Pointer
 
+<img src="preview.png" width="600" alt="Laser pointer strokes over a note">
+
 Circle and point at things in your notes while you present.
 
 * Toggle: the laser pointer icon in the top bar, or `Alt+Shift+L` (macOS: `⌥⇧L`). You can bind another key to **Laser pointer** in Settings → Keymap.
